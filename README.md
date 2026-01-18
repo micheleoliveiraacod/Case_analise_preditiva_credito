@@ -2,7 +2,7 @@
 
 ## 📋 Visão Geral
 
-Este projeto se trata de um algoritimo de Machine Learning para predição de score de crédito, utilizando técnicas de análise de dados e algoritmos de classificação para identificar clientes com alta probabilidade não pagamento. Méodo estatistico de regressão linear.
+Este projeto se trata de um algoritimo de Machine Learning para predição de score de crédito, utilizando técnicas de análise de dados e algoritmos de classificação para identificar clientes com alta probabilidade não pagamento. Modelo estatistico de arvore de decisão.
 
 ## 🎯 Objetivos
 
