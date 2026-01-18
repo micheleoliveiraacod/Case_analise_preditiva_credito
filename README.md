@@ -49,7 +49,7 @@ Ferramentas de Desenvolvimento
 
 Algoritmos implementados:
 - Árvore de decisao (Escolhido para fazer a aprevisão)
-- KNN
+- K-NN
 
 5. Avaliação
 
